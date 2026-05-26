@@ -1,0 +1,58 @@
+{
+  "auth": {
+    "user_created": "User created successfully",
+    "login_success": "Login successful",
+    "invalid_credentials": "Invalid credentials",
+    "token_required": "Token is required",
+    "invalid_token": "Invalid token",
+    "user_not_found": "User not found",
+    "email_exists": "Email already exists"
+  },
+  "validation": {
+    "required_field": "This field is required",
+    "invalid_email": "Invalid email format",
+    "invalid_password": "Password must be at least 8 characters",
+    "invalid_date": "Invalid date format",
+    "invalid_number": "Invalid number format",
+    "min_length": "Must be at least {{min}} characters",
+    "max_length": "Must be at most {{max}} characters"
+  },
+  "food_entry": {
+    "created": "Food entry created successfully",
+    "updated": "Food entry updated successfully",
+    "deleted": "Food entry deleted successfully",
+    "not_found": "Food entry not found",
+    "day_not_found": "Day not found",
+    "meal_not_found": "Meal not found",
+    "food_item_not_found": "Food item not found"
+  },
+  "meal": {
+    "created": "Meal created successfully",
+    "updated": "Meal updated successfully",
+    "deleted": "Meal deleted successfully",
+    "not_found": "Meal not found",
+    "name_required": "Meal name is required"
+  },
+  "food_item": {
+    "created": "Food item created successfully",
+    "updated": "Food item updated successfully",
+    "deleted": "Food item deleted successfully",
+    "not_found": "Food item not found",
+    "name_required": "Food item name is required",
+    "calories_required": "Calories are required"
+  },
+  "day": {
+    "created": "Day created successfully",
+    "updated": "Day updated successfully",
+    "deleted": "Day deleted successfully",
+    "not_found": "Day not found",
+    "invalid_date": "Invalid date format"
+  },
+  "server": {
+    "internal_error": "Internal server error",
+    "not_found": "Resource not found",
+    "bad_request": "Bad request",
+    "unauthorized": "Unauthorized",
+    "forbidden": "Forbidden"
+  }
+}
